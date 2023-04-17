@@ -1,3 +1,3 @@
 # Atelier7
 
-application qui détermine si l'utilisateur est en train de marcher, de sauter, d'être assis ou d'être debout grâce à l'acceléromètre .
+Application that determines whether the user is walking, jumping, sitting or standing using the accelerometer.
